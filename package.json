@@ -1,0 +1,14 @@
+{
+  "name": "Discostatus",
+  "version": "1.0.0",
+  "description": "Your discord status",
+  "main": "index.js",
+  "author": "Rim",
+  "license": "MIT",
+  "dependencies": {
+    "eris": "^0.16.1",
+    "image-to-base64": "^2.2.0",
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1"
+  }
+}
